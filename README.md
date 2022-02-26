@@ -5,6 +5,11 @@ Projeto para voltar a codar em PHP com Láravel :)
 
 ## Commands
 
+### Get Dependencies Project
+```sh
+    composer update  
+```
+
 ### Docker Build
 ```sh
     docker build -t hdcevents -f Dockerfile .  
